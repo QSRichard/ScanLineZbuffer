@@ -1,0 +1,6 @@
+C:\Users\86173\Desktop\CG\hw\z_buffer\Project2\Debug\Project2.exe
+C:\Users\86173\Desktop\CG\hw\z_buffer\Project2\Debug\Project2.pdb
+C:\Users\86173\Desktop\ScanLine_zbuffer-master\z_buffer\Project2\Debug\Project2.exe
+C:\Users\86173\Desktop\ScanLine_zbuffer-master\z_buffer\Project2\Debug\Project2.pdb
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\Debug\Project2.exe
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\Debug\Project2.pdb

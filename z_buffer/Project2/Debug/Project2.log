@@ -1,0 +1,31 @@
+﻿  ScanLine_zbuffer.cpp
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\utils.h(5,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\Vec3f.h(56,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\Vec3f.h(56,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\Vec3f.h(56,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\Model.h(32,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\ScanLine_zbuffer.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\ScanLine_zbuffer.cpp(21,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\ScanLine_zbuffer.cpp(34,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\ScanLine_zbuffer.cpp(41,27): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\ScanLine_zbuffer.cpp(46,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\ScanLine_zbuffer.cpp(54,27): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\ScanLine_zbuffer.cpp(93,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\ScanLine_zbuffer.cpp(99,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\ScanLine_zbuffer.cpp(133,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\ScanLine_zbuffer.cpp(150,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\ScanLine_zbuffer.cpp(157,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\ScanLine_zbuffer.cpp(162,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\ScanLine_zbuffer.cpp(162,38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xutility(4817,24): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\ScanLine_zbuffer.cpp(137): message : see reference to function template instantiation 'void std::fill<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,int>(const _FwdIt,const _FwdIt,const int &)' being compiled
+          with
+          [
+              _Ty=float,
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<float>>>
+          ]
+  Project2.vcxproj -> C:\Users\86173\Desktop\ScanLine_zbuffer\z_buffer\Project2\Debug\Project2.exe
